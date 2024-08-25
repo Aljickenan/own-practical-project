@@ -1,0 +1,13 @@
+{
+  "name": "video-igrice-projekat",
+  "version": "1.0.0",
+  "description": "Search Game",
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "author": "Aljic Kenan",
+  "license": "ISC",
+  "dependencies": {
+    "parcel": "^2.12.0"
+  }
+}
